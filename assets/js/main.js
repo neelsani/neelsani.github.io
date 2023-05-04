@@ -28,7 +28,7 @@
           var custom_greet = document.querySelector('#intro-greeting');
           custom_greet.style.display = 'block';
           var fullName = document.querySelector('#full-name');
-          fullName.innerHTML = 'Uday Kanth Reddy';
+          fullName.innerHTML = 'Neel Sani';
           $('#header').removeClass('header-top');
           $('section').removeClass('section-show');
           return;
